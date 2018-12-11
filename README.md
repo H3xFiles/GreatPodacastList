@@ -5,13 +5,12 @@ This is a night list, I usually update this list only at night.
 
 ## Pure Science
 - http://www.physicscentral.com/explore/multimedia/podcasts.cfm
-
+- http://www.astronomycast.com/
 
 ## programming
 - https://www.sei.cmu.edu/publications/podcasts/index.cfm
 
 ## Security & Technology
-- https://www.social-engineer.org/category/podcast/
 - https://www.gimletmedia.com/reply-all/all#all-episodes-list
 - https://podtail.com/en/podcast/cybercrime-investigations/
 
@@ -21,6 +20,7 @@ This is a night list, I usually update this list only at night.
 - http://osintpodcast.com/
 
 ## Hacking
+- https://www.social-engineer.org/category/podcast/
 - https://darknetdiaries.com/
 - https://hackablepodcast.com/#/episodes
 - https://www.bloomberg.com/podcasts/decrypted
