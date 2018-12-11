@@ -7,7 +7,7 @@ This is a night list, I usually update this list only at night.
 - http://www.physicscentral.com/explore/multimedia/podcasts.cfm
 - http://www.astronomycast.com/
 
-## programming
+## Programming
 - https://www.sei.cmu.edu/publications/podcasts/index.cfm
 
 ## Security & Technology
