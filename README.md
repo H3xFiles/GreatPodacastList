@@ -26,7 +26,7 @@ This is a night list, I usually update this list only at night.
 ## Hacking
 - https://www.social-engineer.org/category/podcast/
 - https://darknetdiaries.com/
-- https://hackablepodcast.com/#/episodes
+- [Our host, Geoff Siskind, digs into the minds of cyber criminals with cybersecurity expert, Bruce Snell, giving us an in-depth view of the vulnerabilities we face so we can stay observant, and out of the hacker’s path. ](https://hackablepodcast.com/#/episodes)
 - https://www.bloomberg.com/podcasts/decrypted
 - https://www.listennotes.com/podcasts/vince-in-the-bay/hector-xavier-monsegur-QhbZ4j2EAHv/
 - https://soundcloud.com/hackedpodcast
