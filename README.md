@@ -3,6 +3,39 @@ Science, Hacking, Crime, ... for the lovers of the spoken words!!
 I love search for new podcast, and ultimately I love listen podcasts. 
 This is a night list, I usually update this list only at night. 
 
+
+## Top podcasts
+- Malicious life
+- Dark Daries
+- Hackable 
+- Cyber Motherbord
+- Russia rising
+- Kaspersky Podcasts
+- FireEye Security Series
+- State of Hack
+- Beers and Talos 
+- At&t threat!Traq 
+- Smashing security
+- Security rabithole
+- Purple Squad Security
+- Bracking Down security
+- Breaking down security response
+- Application security weekly
+- Open source security podcast
+- UnamedRE.com
+- ThugCrowd
+- Hack naked news
+- The Osint podcasts
+- Privacy security Osint
+- The social engineering podcast
+- hacking humans
+
+- Software engineering radio 
+
+
+
+
+
 ## Science 
 - http://www.physicscentral.com/explore/multimedia/podcasts.cfm
 - http://www.astronomycast.com/
